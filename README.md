@@ -24,7 +24,6 @@ C++
 ▶️ Code Execution
 Run code directly inside the platform
 Real-time Output Console
-Judge0 API Integration
 💾 Snippet Management
 Save Code Snippets
 Access Previous Snippets
