@@ -1,0 +1,38 @@
+# package.json
+
+# commands to Run inside  client folder:
+
+npx create-react-app client
+
+Then go into client folder:
+
+cd client
+
+Now install the extra packages used:
+
+npm install axios react-router-dom simple-peer socket.io-client
+
+# package-lock.json
+
+# commands to run
+Just run:
+
+npm install
+
+OR while installing packages:
+
+npm install axios react-router-dom simple-peer socket.io-client
+
+After running the command, npm automatically creates:
+
+package-lock.json
+
+client
+
+├── node_modules
+
+├── package.json
+
+├── package-lock.json
+
+└── src
