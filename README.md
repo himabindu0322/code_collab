@@ -97,19 +97,26 @@ Backend → Render
 
 MyProject/
 │
+
 ├── client/
+
 │   ├── src/
 │   ├── components/
 │   ├── pages/
 │   └── services/
+
 │
+
 ├── server/
+
 │   ├── routes/
 │   ├── controllers/
 │   ├── models/
 │   ├── middleware/
 │   └── sockets/
+
 │
+
 └── README.md
 
 # Future Improvements
